@@ -4,5 +4,6 @@ int main(int argc, char **argb)
 {
  printf("Hello.\n");
  printf("Be awesome, please...\n");
+ printf("Goodbye.\n");
  return 0;
 }
