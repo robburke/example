@@ -3,6 +3,6 @@
 int main(int argc, char **argb)
 {
  printf("Hello.\n");
- printf("Be awesome, please.\n");
+ printf("Be awesome, please...\n");
  return 0;
 }
